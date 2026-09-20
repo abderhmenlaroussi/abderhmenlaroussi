@@ -53,13 +53,14 @@ My personal portfolio where you can discover more about me, my skills, projects,
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abderhmenlaroussi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abderhmenlaroussi&theme=tokyonight" />
 </p>
+
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abderhmenlaroussi&theme=tokyo-night)
 
 ---
 
